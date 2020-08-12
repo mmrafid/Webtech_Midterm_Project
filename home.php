@@ -25,7 +25,7 @@ if(!isset($_SESSION['username'])){
 	<br />
 	
 	
-	 <img width="150" height="200" src="propic.jpg">
+	 <img width="150" height="200" src="https://www.businessinsider.in/thumb/msid-48204815,width-640,resizemode-4,imgsize-63658/recognizing-free-hand-drawings-at-all-is-pretty-tough-a-black-and-white-sketch-of-a-person-for-example-could-be-an-abstract-stick-man-or-a-highly-detailed-portrait-sketches-also-dont-have-some-of-the-visual-cues-like-coloured-pixels-that-photographs-do-.jpg">
 	 <br />
 	 <h3> Name: <?php echo $_SESSION['username'];?> </h3>
 	
